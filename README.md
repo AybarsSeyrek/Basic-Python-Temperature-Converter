@@ -1,2 +1,2 @@
 # Basic-Python-Temperature-Converter
-Description: A simple Python temperature converter for Celsius and Fahrenheit.
+A simple Python temperature converter for Celsius and Fahrenheit.
